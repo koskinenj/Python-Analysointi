@@ -64,3 +64,7 @@ if name1==name2:
     print("Name1 and Name2 are equal")
 elif name1==name3:
     print("Name1 and Name3 are equal")
+    
+    
+if name1 is name2:
+    print("Name1 and Name2 refer to the same String object")
